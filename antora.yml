@@ -1,5 +1,5 @@
 name: app-platform-delivery
-title: Application Platform Delivery
+title: Developer Experience and GitOps Workflows
 version: 1
 nav:
 - modules/ROOT/nav.adoc

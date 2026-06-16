@@ -1,5 +1,5 @@
 site:
-  title: Application Platform Delivery
+  title: Foundations - Developer Experience and GitOps Workflows
   start_page: app-platform-delivery::index.adoc
 
 content:
